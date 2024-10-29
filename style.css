@@ -1,0 +1,33 @@
+p{
+    color:red;
+    font-size:large;
+    
+}
+body{
+    color:green;
+    font-size:-large;
+    background-color: rgb(197, 167, 174);
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: ;
+  font-style: normal;
+}
+}
+img{
+width: 100px;
+border: 1px;
+}
+div{max-width: 400px;
+margin:auto}
+
+
+
+.josefin {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+img{width: 150px
+}
